@@ -8,12 +8,12 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=netmaker
-PKG_VERSION:=0.11.1_testing
+PKG_VERSION:=0.9.2
 PKG_RELEASE:=
 
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL:=https://github.com/gravitl/netmaker.git
-PKG_SOURCE_VERSION:=b77c41c8eb093c13c73214afa0cd38c7d8e95974
+PKG_SOURCE_VERSION:=null
 PKG_SOURCE_DATE:=20220225
 PKG_MIRROR_HASH:=skip
 
